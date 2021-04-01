@@ -3,7 +3,7 @@
 
 ## Overview
 
-PrismGo is a experimental search engine forked from KataGo (https://github.com/lightvector/KataGo). PrismGo was forked for tests and other purposes. 
+Recktango is a experimental search engine forked from KataGo (https://github.com/lightvector/KataGo). Recktango was forked for tests and other purposes. 
 
 ## License
 
