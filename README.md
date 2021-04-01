@@ -1,4 +1,4 @@
-Recktango is still under development and should be expected to release in late may of 2021
+Recktango is still under development 
 
 ## Overview
 
