@@ -1,9 +1,8 @@
-# PrismGo
-* [License]
+Recktango is still under development and should be expected to release in late may of 2021
 
 ## Overview
 
-Recktango is a experimental search engine forked from KataGo (https://github.com/lightvector/KataGo). Recktango was forked for tests and other purposes. 
+Recktango is a experimental search engine forked from KataGo (https://github.com/lightvector/KataGo).
 
 ## License
 
